@@ -1,4 +1,4 @@
-# Ready-to-paste committing convention
+# Ready-to-paste commits
 
 🎉 initial: (initial commit)
 ✨ feat: (new feature)
