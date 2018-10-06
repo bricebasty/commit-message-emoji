@@ -1,3 +1,5 @@
+# Ready-to-paste committing convention
+
 🎉 initial: (initial commit)
 ✨ feat: (new feature)
 🐛 fix: (bug fix)
