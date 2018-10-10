@@ -1,6 +1,6 @@
 # Ready-to-paste commits
 
-🎉 initial: (initial commit)
+🎉 initial commit (initial commit)
 ✨ feat: (new feature)
 🐛 fix: (bug fix)
 🐎 perf: (performance improvement)
